@@ -25,6 +25,7 @@ const Leftnav = () => {
             </div>
         </div>
     );
+    
 };
 
 export default Leftnav;

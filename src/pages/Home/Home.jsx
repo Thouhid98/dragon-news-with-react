@@ -1,4 +1,3 @@
-import React from 'react';
 import Header from '../Shared/Header/Header';
 import Navbar from '../Shared/Navbar/Navbar';
 import Leftnav from '../Shared/Leftnav/Leftnav';
